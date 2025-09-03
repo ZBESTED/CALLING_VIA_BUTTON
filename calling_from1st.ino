@@ -7,11 +7,11 @@ void Line_Notify(String message);
 #include <TridentTD_LineNotify.h>
 
 // Config connect WiFi
-#define WIFI_SSID "IntelR8"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "Wifi_SSID"
+#define WIFI_PASSWORD "Wifi_PW"
 
 // Line config
-#define LINE_TOKEN "VnjHE3pFddSZkmNVizDYSE8mJxZOtLHsPckil9HsKdH"
+#define LINE_TOKEN "LINE_BOT_TOKEN"
 
 #define SW D2
 
